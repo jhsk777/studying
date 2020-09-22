@@ -1,2 +1,2 @@
-# studying
-study about machine learning
+# hello-world
+study about machine!
